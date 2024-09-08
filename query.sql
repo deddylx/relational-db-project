@@ -30,7 +30,7 @@ select
 	price
 from product_detail
 where model ILIKE '%honda%'
-order by 2 asc;
+order by 5 asc;
 
 --5) mencari mobil bekas terdekat dengan id kota 3173
 select
